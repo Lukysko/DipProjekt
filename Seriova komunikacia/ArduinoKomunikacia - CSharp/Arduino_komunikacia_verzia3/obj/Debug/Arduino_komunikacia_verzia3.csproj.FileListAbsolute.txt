@@ -1,0 +1,32 @@
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\Arduino_komunikacia_verzia3.exe.config
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\Arduino_komunikacia_verzia3.exe
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\Arduino_komunikacia_verzia3.pdb
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.Form1.resources
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.Properties.Resources.resources
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.csproj.GenerateResource.Cache
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.exe
+c:\users\lukys\documents\visual studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.pdb
+C:\Users\lukys\Documents\Visual Studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.dll
+C:\Users\lukys\Documents\Visual Studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\lukys\Documents\Visual Studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.pdb
+C:\Users\lukys\Documents\Visual Studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.xml
+C:\Users\lukys\Documents\Visual Studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\lukys\Documents\Visual Studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\lukys\Documents\Visual Studio 2015\Projects\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.csprojResolveAssemblyReference.cache
+C:\Users\lukys\OneDrive\Arduino\Seriova komunikacia\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\bin\Debug\Arduino_komunikacia_verzia3.exe.config
+C:\Users\lukys\OneDrive\Arduino\Seriova komunikacia\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.exe
+C:\Users\lukys\OneDrive\Arduino\Seriova komunikacia\Arduino_komunikacia_verzia3\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.pdb
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\Arduino_komunikacia_verzia3.exe.config
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.exe
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.pdb
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.Form1.resources
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.Properties.Resources.resources
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\obj\Debug\Arduino_komunikacia_verzia3.csproj.GenerateResource.Cache
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\Arduino_komunikacia_verzia3.exe
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\Arduino_komunikacia_verzia3.pdb
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.dll
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.WindowsForms.dll
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.pdb
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.xml
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.WindowsForms.pdb
+F:\Diplomovy projekt\DP\Seriova komunikacia\ArduinoKomunikacia - CSharp\Arduino_komunikacia_verzia3\bin\Debug\OxyPlot.WindowsForms.xml

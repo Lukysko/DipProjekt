@@ -1,0 +1,28 @@
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\bin\Debug\udajeDatabaza.exe.config
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\bin\Debug\udajeDatabaza.exe
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\bin\Debug\udajeDatabaza.pdb
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\bin\Debug\MySql.Data.dll
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.chybaPripojenia.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.ControlArduino.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.Dizajn.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.IoT.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.Load.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.Pripojenie.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.Properties.Resources.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.Skuska.resources
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.csproj.GenerateResource.Cache
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.exe
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.pdb
+C:\Users\lukys\OneDrive\Arduino\Napojenie na databazu\udajeDatabaza\udajeDatabaza\obj\Debug\udajeDatabaza.csprojResolveAssemblyReference.cache
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\bin\Debug\udajeDatabaza.exe.config
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.exe
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.pdb
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\bin\Debug\udajeDatabaza.exe
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\bin\Debug\udajeDatabaza.pdb
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.chybaPripojenia.resources
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.ControlArduino.resources
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.IoT.resources
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.Load.resources
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.Pripojenie.resources
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.Properties.Resources.resources
+F:\Diplomovy projekt\DP\Ethernet komunikacia\udajeDatabaza -CSharp\udajeDatabaza\obj\Debug\udajeDatabaza.csproj.GenerateResource.Cache
